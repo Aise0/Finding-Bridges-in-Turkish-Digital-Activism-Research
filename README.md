@@ -7,6 +7,7 @@ Co-authorship network code: [![Open In Colab](https://colab.research.google.com/
 Dataset: [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1VU3oXr9or6SDghnplkRem5HZhnF3VjSr)
 
 Interactive network visualizations can be accessed through the project landing page:
+
 [![Open Visualizations](https://img.shields.io/badge/Open-Interactive%20Networks-7c3aad?style=flat&logo=github)](https://aise0.github.io/Finding-Bridges-in-Turkish-Digital-Activism-Research/)
 
 ## Interactive Networks
