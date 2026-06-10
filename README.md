@@ -9,7 +9,7 @@ Dataset: [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1VU3oX
 
 ## Interactive Networks
 
-| | Network | Link |
-|---|---------|------|
-| CSS Co-authorship Network | ![Open Visualization](https://img.shields.io/badge/Open-Visualization-7c3aad?style=flat&logo=github)](https://aise0.github.io/Finding-Bridges-in-Turkish-Digital-Activism-Research/digital_activism_network.html) |
-| Author-Citation Network | ![Open Visualization](https://img.shields.io/badge/Open-Visualization-7c3aad?style=flat&logo=github)](https://aise0.github.io/Finding-Bridges-in-Turkish-Digital-Activism-Research/digital_activism_tr_citation.html) |
+| Network | Link |
+|---------|------|
+| CSS Co-authorship Network | [![Open Visualization](https://img.shields.io/badge/Open-Visualization-7c3aad?style=flat&logo=github)](https://aise0.github.io/Finding-Bridges-in-Turkish-Digital-Activism-Research/digital_activism_network.html) |
+| Author-Citation Network | [![Open Visualization](https://img.shields.io/badge/Open-Visualization-7c3aad?style=flat&logo=github)](https://aise0.github.io/Finding-Bridges-in-Turkish-Digital-Activism-Research/digital_activism_tr_citation.html) |
