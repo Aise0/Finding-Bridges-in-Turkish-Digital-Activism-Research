@@ -11,5 +11,5 @@ Dataset: [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1VU3oX
 
 | | Network | Link |
 |---|---------|------|
-| CSS Co-authorship Network | [![Open Visualization](https://aise0.github.io/Finding-Bridges-in-Turkish-Digital-Activism-Research/digital_activism_network.html) |
-| Author-Citation Network | [![Open Visualization](https://aise0.github.io/Finding-Bridges-in-Turkish-Digital-Activism-Research/digital_activism_tr_citation.html) |
+| CSS Co-authorship Network | ![Open Visualization](https://aise0.github.io/Finding-Bridges-in-Turkish-Digital-Activism-Research/digital_activism_network.html) |
+| Author-Citation Network | ![Open Visualization](https://aise0.github.io/Finding-Bridges-in-Turkish-Digital-Activism-Research/digital_activism_tr_citation.html) |
